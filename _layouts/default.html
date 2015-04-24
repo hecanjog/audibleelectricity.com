@@ -7,11 +7,23 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <main>
+
+        <div class="content">
+            {{ content }}
+        </div>
+
+        <div class="sidebar">
+            <p class="description">{{ site.description }}</p>
+
+            <p>Open call: We're looking for digital and analog instrument builders, improvisers, experimentalists, and folks whose 
+            music is designed for listening.</p>
+
+           <p>Please submit links via email to examples of your music along with a brief technical explanation of your approach to live performance.</p>
+
+           <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        </div>
+    </main>
 
     {% include footer.html %}
 
