@@ -31,8 +31,12 @@ header {
 }
 
 .site-title {
+    display: block;
+    padding-top: 40px;
     margin-bottom: 0;
     color: #222;
+    font-weight: 800;
+    font-size: 32px;
 }
 
 @import "home";
