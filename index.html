@@ -7,11 +7,8 @@ layout: default
   <ul class="show-list">
     {% for post in site.posts %}
       <li>
-        <span class="show-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="show-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <h3 class="show-date">{{ post.date | date: "%b %-d, %Y" }}</h3>
+        <h2 class="show-link"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
       </li>
     {% endfor %}
   </ul>
