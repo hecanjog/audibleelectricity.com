@@ -2,6 +2,8 @@
 layout: show
 title: "Scrawl & Apollo Vermouth"
 categories: shows
+starts: 6pm
+price: FREE
 ---
 ## Scrawl
 
