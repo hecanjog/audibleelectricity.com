@@ -7,7 +7,7 @@ layout: default
   <ul class="show-list">
     {% for post in site.posts %}
       <li>
-        <h3 class="show-date">{{ post.date | date: "%b %-d, %Y" }}</h3>
+        <h3 class="show-date">{{ post.date | date: "%b %-d, %Y" }}{% if post.starts %} | {{ post.starts }}{% endif %}{% if post.price %} | {{ post.price }}{% endif %}</h3>
         <h2 class="show-link"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
       </li>
     {% endfor %}
