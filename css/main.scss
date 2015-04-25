@@ -90,6 +90,14 @@ main {
 
 }
 
+.site-footer {
+    padding: 15px;
+
+    @include respond-to(medium) {
+        padding: 15px 0;
+    }
+}
+
 @import "home";
 @import "shows";
 
