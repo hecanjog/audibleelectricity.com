@@ -61,19 +61,28 @@ main {
     zoom: 1;
 
     .content {
-        padding-right: 15px;
+        padding: 15px;
 
         @include respond-to(medium) {
+            padding: 0;
+            padding-right: 15px;
+
             float: left;
             width: 60%;
         }
     }
 
     .sidebar {
-        padding-top: 5px;
+        padding: 0 15px;
         font-size: 0.95em;
 
+        .description {
+            font-weight: 800;
+        }
+
         @include respond-to(medium) {
+            padding: 0;
+            padding-top: 5px;
             float: right;
             width: 40%;
         }
