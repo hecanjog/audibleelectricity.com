@@ -7,7 +7,7 @@ $bg-color: #222;
 $fg-color: #fff;
 $main-width: 100%;
 $medium-width: 600px;
-$large-width: 1200px;
+$large-width: 1000px;
 
 @import "normalize";
 @import "mixins";
@@ -29,6 +29,12 @@ body {
         width: $medium-width;
         margin: 0 auto;
     }
+
+    @include respond-to(large) {
+        width: $large-width;
+        padding: 0 20px;
+    }
+
 }
 
 a {
@@ -71,6 +77,11 @@ main {
             float: left;
             width: 60%;
         }
+
+        @include respond-to(large) {
+            width: 40%;
+        }
+
     }
 
     .sidebar {
@@ -87,6 +98,12 @@ main {
             float: right;
             width: 40%;
         }
+
+        @include respond-to(large) {
+            width: 60%;
+        }
+
+
     }
 
 }
