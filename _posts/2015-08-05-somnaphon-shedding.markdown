@@ -1,6 +1,6 @@
 ---
 layout: show
-title: "Shedding & Somnaphon"
+title: "Shedding & Somnaphon w/Jerod Sommerfeldt"
 categories: shows
 starts: 6pm
 price: FREE
@@ -16,8 +16,18 @@ price: FREE
 
 [Somnaphon][august] is the solo project of August Traeger from Milwaukee. [Tracing Constructs][tracing] is available for download now via [Digital Minimum][dm].
 
+## Jerod Summerfeldt & Somnaphon
+
+Computer musician [Jerod Summerfeldt][jerod] will be joining Somnaphon for a very special independent set.
+
+Jerod’s music focuses on the creation of algorithmic and stochastic processes, utilizing the results for both fixed and real-time composition and improvisation. 
+His sound world explores digital audio artifacts and the destruction of technology, resulting in work that seeks to question the dichotomy between the intended 
+and unintentional. An active performer as both soloist and collaborator in interactive digital music and live video, he currently serves as Assistant Professor 
+of Electronic Music Composition and Theory at the State University of New York at Potsdam Crane School of Music, and as director of the SUNY-Potsdam Electronic Music Studios (PoEMS).
+
 [shedding]: http://shedding.org
 [ppv1]: https://shedding.bandcamp.com/album/plod-play-vol-1-2
 [august]: https://somnaphon.bandcamp.com
 [tracing]: https://digitalminimum.bandcamp.com/album/tracing-constructs
 [dm]: http://www.digitalminimum.net
+[jerod]: http://www.jerodsommerfeldt.com
