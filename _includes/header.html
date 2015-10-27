@@ -1,6 +1,6 @@
 <header class="main-header">
     <a class="site-title" href="{{ site.baseurl }}/"><h1>{{ site.title }}</h1></a>
-    <canvas id="stripes" width="1000px" height="100px"></canvas>
+    <canvas id="stripes" width="3000px" height="200px"></canvas>
 
     <script>
         var stripesCanvas = document.getElementById('stripes');
@@ -10,7 +10,7 @@
         var i = 0;
         var r, g, b;
 
-        while(i < 1000) {
+        while(i < 3000) {
             i = i + parseInt(Math.random() * 4 + 1); 
 
             r = parseInt(Math.floor(Math.random() * 255));
@@ -20,7 +20,7 @@
             stripes.beginPath();
             stripes.strokeStyle = 'rgba('+r+','+g+','+b+',' + Math.random() * 0.9 + ')';
             stripes.moveTo(i, 0);
-            stripes.lineTo(i, 100);
+            stripes.lineTo(i, 200);
             stripes.stroke();
         }
 
