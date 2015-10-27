@@ -12,3 +12,10 @@
     }
 
 }
+
+@mixin text-shadow($x, $y, $blur, $color) {
+    -webkit-text-shadow: $x $y $blur $color;
+       -moz-text-shadow: $x $y $blur $color;
+        -ie-text-shadow: $x $y $blur $color;
+            text-shadow: $x $y $blur $color;
+}

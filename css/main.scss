@@ -49,18 +49,32 @@ a:hover {
 
 .main-header {
     width: 100%;
-    background-color: $fg-color;
     padding: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+#stripes {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
 }
 
 .site-title {
+    position: relative;
+    z-index: 10;
     display: block;
-    padding-top: 40px;
+    padding-top: 2rem;
     margin-bottom: 0;
-    color: #222;
+    color: #fff;
     font-weight: 800;
-    font-size: 32px;
+    font-size: 4rem;
     line-height: 1;
+
+    @include text-shadow(0, 0, 2px, #000);
 }
 
 main {
