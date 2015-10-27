@@ -1,14 +1,14 @@
 ---
 layout: show
-title: "Mike Hodnick / Dan of Earth"
+title: "Kindohm / Dan of Earth"
 categories: shows
 starts: 7:00pm
 price: FREE
 ---
 
-## Mike Hodnick
+## Kindohm
 
-[Mike Hodnick][mike] is an independent software developer and electronic music producer. 
+[Mike Hodnick][mike] AKA Kindohm is an independent software developer and electronic music producer. 
 He strives for unique and risky live performances through the use of live-coding and (often) 
 improvisation, and enjoys exploring the extreme minimalism and complexity in static, 
 algorithmic compositions.
