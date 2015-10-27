@@ -18,12 +18,19 @@
             b = parseInt(Math.floor(Math.random() * 255));
 
             stripes.beginPath();
-            stripes.strokeStyle = 'rgba('+r+','+g+','+b+',' + Math.random() * 0.9 + ')';
+            stripes.strokeStyle = 'rgba('+r+','+r+','+r+',' + Math.random() * 0.9 + ')';
             stripes.moveTo(i, 0);
             stripes.lineTo(i, 200);
             stripes.stroke();
         }
 
+        $.get('https://api.nasa.gov/planetary/apod?concept_tags=True&api_key=DEMO_KEY', function(data) {
+            var url = data.url;
+
+            $('html').css({
+                'background-image': 'url('+url+')'
+            });
+        });
     </script>
 
 </header>
