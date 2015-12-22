@@ -11,7 +11,7 @@ price: FREE
 
 ![Randal Bravery]({{ site.url }}/images/randal.bravery.jpg)
 
-[on bandcamp][rbbandcamp]
+listen [on bandcamp][rbbandcamp]
 </div>
 
 <div class="artist" markdown="1">
@@ -21,7 +21,7 @@ price: FREE
 
 Primary shareholder of the Instrumental Expressive branch of Alex Kollman. Recent investments include: haywire, CDs, keyboard.
 
-[on bandcamp][efbandcamp]
+listen [on bandcamp][efbandcamp]
 </div>
 
 <div class="artist" markdown="1">
@@ -29,7 +29,7 @@ Primary shareholder of the Instrumental Expressive branch of Alex Kollman. Recen
 
 ![Sun//Decrease]({{ site.url }}/images/sun.decrease.jpg)
 
-[on bandcamp][sdbandcamp]
+listen [on bandcamp][sdbandcamp]
 </div>
 
 [rbbandcamp]: https://randalbravery.bandcamp.com/
