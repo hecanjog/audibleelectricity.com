@@ -6,11 +6,13 @@ starts: 6:00pm
 price: FREE
 ---
 
+<div class="artist" markdown="1">
 ## Randal Bravery
 
 ![Randal Bravery]({{ site.url }}/images/randal.bravery.jpg)
 
 [on bandcamp][rbbandcamp]
+</div>
 
 ## Emmanuel Fade
 
