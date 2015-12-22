@@ -6,11 +6,16 @@ starts: 6:00pm
 price: FREE
 ---
 
+<section class="artist">
+
 ## Randal Bravery
 
 ![Randal Bravery]({{ site.url }}/images/randal.bravery.jpg)
 
 [on bandcamp][rbbandcamp]
+
+</section>
+<section class="artist">
 
 ## Emmanuel Fade
 
@@ -20,11 +25,16 @@ Primary shareholder of the Instrumental Expressive branch of Alex Kollman. Recen
 
 [on bandcamp][efbandcamp]
 
+</section>
+<section class="artist">
+
 ## Sun//Decrease
 
 ![Sun//Decrease]({{ site.url }}/images/sun.decrease.jpg)
 
 [on bandcamp][sdbandcamp]
+
+</section>
 
 [rbbandcamp]: https://randalbravery.bandcamp.com/
 [efbandcamp]: https://superiorhurter.bandcamp.com/
