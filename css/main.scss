@@ -18,13 +18,14 @@ $large-width: 1000px;
 
 @include keyframes(ani-bg) {
     0% { background-color: $bg-color; }
-    100% { background-color: adjust-hue($bg-color, 100%); }
+    50% { background-color: adjust-hue($bg-color, 50%); }
+    100% { background-color: $bg-color; }
 }
 
 html {
     //background-color: $bg-color;
     //background-size: cover;
-    @include animation('ani-bg 10s infinite');
+    @include animation('ani-bg 15s infinite');
 
     color: $fg-color;
     font-family: 'Open Sans', sans-serif;
