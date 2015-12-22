@@ -18,7 +18,7 @@ $large-width: 1000px;
 
 @include keyframes(ani-bg) {
     0% { background-color: $bg-color; }
-    100% { background-color: adjust-hue($bg-color, 50%); }
+    100% { background-color: adjust-hue($bg-color, 100%); }
 }
 
 html {
