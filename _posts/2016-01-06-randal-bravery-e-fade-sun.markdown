@@ -29,6 +29,8 @@ listen [on bandcamp][efbandcamp]
 
 ![Sun//Decrease]({{ site.url }}/images/sun.decrease.jpg)
 
+At the foot of the mountain, the joyous lake: Sun//Decrease is the sound of a cliff extending outward as you walk off.  It is a trio consisting of WC Tank (Antler Antennas, Stumblesome), Barry Paul Clark (adoptahighway, Tontine Ensemble) and Devin Drobka (Bell Dance Songs, Lesser Lakes Trio, Lady Cannon).
+
 listen [on bandcamp][sdbandcamp]
 </div>
 
