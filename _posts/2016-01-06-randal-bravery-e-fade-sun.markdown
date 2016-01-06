@@ -11,7 +11,7 @@ price: FREE
 
 ![Randal Bravery]({{ site.url }}/images/randal.bravery.jpg)
 
-1/3 of the Ruby Yacht Maker's Guild, beatsmith for Scallops Hotel, his new EP Ganymede Bartender is out now: https://randalbravery.bandcamp.com/album/ganymede-bartender
+Member of the Ruby Yacht Maker's Guild, his new EP Ganymede Bartender is out now: https://randalbravery.bandcamp.com/album/ganymede-bartender
 
 listen [on bandcamp][rbbandcamp]
 </div>
