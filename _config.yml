@@ -2,8 +2,9 @@
 title: Audible Electricity
 email: hi@audibleelectricity.com
 description: > 
-  Audible Electricity is a monthly concert series for improvised 
-  computer music and live synthesis presented at Acme Records in Bay View.
+  Audible Electricity is a monthly concert series for 
+  experimental music presented every first Wednesday 
+  at Acme Records in Bay View.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://audibleelectricity.com" # the base hostname & protocol for your site
 
