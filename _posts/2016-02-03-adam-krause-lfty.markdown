@@ -18,7 +18,9 @@ He spent 8 years with Milwaukee's Group of the Altos, and in addition to his sol
 currently performs in Marielle Allschwang's band.
 
 listen [on bandcamp][akbandcamp]
+
 read [on amazon][akamazon]
+
 [twitter][aktwitter]
 </div>
 
