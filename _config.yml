@@ -10,3 +10,4 @@ url: "http://audibleelectricity.com" # the base hostname & protocol for your sit
 
 # Build settings
 markdown: kramdown
+future: true
