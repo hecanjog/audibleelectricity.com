@@ -33,9 +33,9 @@ listen to [simple system on bandcamp][jebandcamp]
 Travis Hallenbeck's MIDI User's Group project combines modern approaches with new and obsolete hardware to create a dynamic soup 
 of algorithmic and improvisational machine dances.
 
-Below is a live recording from a 2014 performance at the Electric Maid in Baltimore.
+Below is an excerpt from a performance at Union Arts in Washington DC.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dWrVkmuXMb8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cvEf0IhYEyQ" frameborder="0" allowfullscreen></iframe>
 
 [artist website][thsite]
 
