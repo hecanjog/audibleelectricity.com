@@ -7,7 +7,7 @@ price: FREE
 ---
 
 <div class="artist" markdown="1">
-## Loam (Jim Worchal)
+## Loam (Jim Worchol)
 
 ![Loam (Jim Warchol)](/images/jim.warchol.jpeg)
 
