@@ -35,6 +35,10 @@ Listen on [soundcloud][bgsoundcloud]
 
 Milwaukee modular synth supergroup.
 
+**Sample and Fold** is Brandon Logic, Stephen Merola and Jim Schoenecker.
+
+3 dudes brought together by a common addiction.
+
 </div>
 
 
