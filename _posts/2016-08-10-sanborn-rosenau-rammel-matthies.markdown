@@ -1,6 +1,6 @@
 ---
 layout: show
-title: "Rosenau/Sanborn / Rammel/Matthies"
+title: "Rosenau/Sanborn / Matthies/Rammel"
 categories: shows
 starts: 7:00pm
 price: FREE
