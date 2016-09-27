@@ -2,7 +2,7 @@
 layout: show
 title: "Nomad Palace / Paul Feyertag"
 categories: shows
-starts: 7:00pm
+starts: 6:00pm
 price: FREE
 ---
 
