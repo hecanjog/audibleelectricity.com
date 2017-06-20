@@ -1,28 +1,20 @@
 ---
 layout: default
 ---
+<div class="home content">
+  <ul class="show-list">
+    {% for post in site.posts %}
+      <li>
+        <h3 class="show-date">{{ post.date | date: "%b %-d, %Y" }}{% if post.starts %} | {{ post.starts }}{% endif %}{% if post.price %} | {{ post.price }}{% endif %}</h3>
+        <h2 class="show-link"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-        <div class="home content">
+</div>
 
-          <ul class="show-list">
-            {% for post in site.posts %}
-              <li>
-                <h3 class="show-date">{{ post.date | date: "%b %-d, %Y" }}{% if post.starts %} | {{ post.starts }}{% endif %}{% if post.price %} | {{ post.price }}{% endif %}</h3>
-                <h2 class="show-link"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-              </li>
-            {% endfor %}
-          </ul>
-
-        </div>
-
-        <div class="sidebar">
-            <p class="description">{{ site.description }}</p>
-
-            <p><strong>Open call!</strong> We're looking for digital and analog instrument builders, improvisers, experimentalists, and folks whose 
-            music is designed for listening.</p>
-
-           <p>Please submit links via email to examples of your music along with a brief bio:</p>
-
-           <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-        </div>
+<div class="sidebar">
+    <p class="description">{{ site.description }}</p>
+    <p><a href="mailto:{{ site.email }}">Press / Inquiries: {{ site.email }}</a></p>
+</div>
 
