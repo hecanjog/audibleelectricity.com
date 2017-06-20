@@ -3,6 +3,9 @@ layout: show
 title: "Andrew Weathers / Geodes"
 categories: shows
 starts: 8:00pm
+venue: Pink House Studio
+address: 601 E Wright St, Milwaukee WI 53212
+mapurl: https://goo.gl/maps/vbinvFuW3q92
 price: FREE
 ---
 
@@ -33,7 +36,6 @@ His music falls somewhere in the margin between American folk and punk tradition
 Geodes are a collective of improvisers from Milwaukee, Wisconsin. 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=455794887/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless></iframe>
-
 [artist website][g]
 
 </div>
