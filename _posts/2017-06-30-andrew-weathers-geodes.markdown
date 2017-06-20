@@ -11,6 +11,16 @@ price: FREE
 
 ![Andrew Weathers](/images/andrew.weathers.jpg)
 
+Andrew Weathers is a composer and improviser from Chapel Hill, North Carolina.
+
+His music falls somewhere in the margin between American folk and punk traditions and post-war American experimentalism.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gP-IOyguyLQ" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-rWri6Jc3qI" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQsmyE_gzZY" frameborder="0" allowfullscreen></iframe>
+
 [artist website][aw]
 
 </div>
@@ -19,6 +29,8 @@ price: FREE
 ## Geodes
 
 ![Geodes](/images/the.geodes.jpg)
+
+Geodes are a collective of improvisers from Milwaukee, Wisconsin. 
 
 [artist website][g]
 
