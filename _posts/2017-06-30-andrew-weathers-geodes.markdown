@@ -1,6 +1,6 @@
 ---
 layout: show
-title: "Andrew Weathers / Geodes"
+title: "Andrew Weathers / Bachelorette Party / Geodes"
 categories: shows
 starts: 8:00pm
 venue: Pink House Studio
@@ -29,6 +29,18 @@ His music falls somewhere in the margin between American folk and punk tradition
 </div>
 
 <div class="artist" markdown="1">
+## Bachelorette Party 
+
+![Bachelorette Party](/images/bachelorette.party.jpg)
+
+Bachelorette Party is Amanda Schoofs &amp; Peter J Woods.
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3858733117/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless></iframe>
+[artist website][bp]
+
+</div>
+
+<div class="artist" markdown="1">
 ## Geodes
 
 ![Geodes](/images/the.geodes.jpg)
@@ -41,3 +53,4 @@ Geodes are a collective of improvisers from Milwaukee, Wisconsin.
 </div>
 [g]: http://thegeodes.org
 [aw]: http://andrewweathers.com
+[bp]: https://swampcircle.bandcamp.com/album/discrete-clarifiers
