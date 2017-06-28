@@ -24,4 +24,4 @@ price: FREE
 
 </div>
 [np]: http://www.nomadpalace.net
-[lv]: https://likeavillain.bandcamp.net
+[lv]: https://likeavillain.bandcamp.com
